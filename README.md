@@ -4,4 +4,4 @@ The Python DPV is a computer application that serves to analyze and verify your 
 
 ![image](https://user-images.githubusercontent.com/59580503/172062408-1464ea34-9a51-4147-90eb-855359fe8190.png)
 
-The current iteration of DPV utilizes properties of a Hip Implant to verify if the chosen design paramters of the appliance will be functional for the patient. 
+The current iteration of DPV utilizes properties of a Hip Implant to verify if the chosen design paramters of the appliance will be functional for the patient. Feel free to modify the properties to suite your chosen appliance.  
