@@ -27,7 +27,7 @@ def Subprogram_1(body_weight, canal_diameter,ult_ten_strength):  # Subprogram 1 
     print("Applied Tensile Stress of stem material:", round(float(app_ten_stress), 1), "MPa")
 
 
-# Nicole Watson
+
 def Subprogram_2(body_weight, stem_dia,team_number):  # Subprogram 2- calculating the fatigue life of our implant design
 
     # this function gets a list of cycles to be used in later calculations
@@ -72,7 +72,7 @@ def Subprogram_2(body_weight, stem_dia,team_number):  # Subprogram 2- calculatin
 
 
 
-# Arsh Ahmed
+
 def Subprogram_3(body_weight, modulus_bone, modulus_implant, outer_dia, canal_diameter):
     load = 30 * body_weight  # calculating the load using 30*Body weight
     area = (math.pi / 4) * (outer_dia ** 2 - canal_diameter ** 2)
